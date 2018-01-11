@@ -12,10 +12,10 @@ else {
 console.log("Expected the height to be 74")
 }
 */
-if (name ==="Susan"){
+/*if (name ==="Susan"){
   console.log("the name is correct")
 
 }
 else {
   console.log("Expected the name to be Susan")
-}
+}*/
